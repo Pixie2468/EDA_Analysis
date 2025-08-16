@@ -65,27 +65,23 @@ EDA_ANALYSIS/
 
 ## How to Run
 
-### Prerequisites
-pip install pandas numpy matplotlib seaborn jupyter
-
-text
 
 ### Steps
 1. **Clone the repository**
+```bash
 git clone https://github.com/Pixie2468/EDA_Analysis
 cd EDA_ANALYSIS
+```
 
-text
-
-1. **Install dependencies**
+2. **Install dependencies**
+```bash
 pip install -r requirements.txt
-
-text
+```
 
 3. **Launch Jupyter Notebook**
+```bash
 jupyter notebook eda_notebook.ipynb
-
-text
+```
 
 4. **Run all cells** to see the complete analysis
 
@@ -114,4 +110,5 @@ The notebook includes various visualizations such as:
 
 **Dataset:** The big dataset of ultra-marathon running  
 **Source:** https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running
+
 
