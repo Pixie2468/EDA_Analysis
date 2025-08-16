@@ -1,0 +1,12 @@
+# Virtual Envs
+.EDA_project
+
+# Python
+__pycache__
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+TWO_CENTURIES_OF_UM_RACES.csv
+TWO_CENTURIES_OF_UM_RACES
